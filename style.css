@@ -1,0 +1,10 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+p{
+  font-size: 45px;
+}
+h1 {
+  font-weight: bold;
+}
